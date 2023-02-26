@@ -5,4 +5,4 @@ This is simple website.this created using the concept of parallel-axis effect.In
 HTML 🌐
 CSS 🎨
 
-This app is deployed on Netlify and can be viewed live at: https://adventure-website-by-amar.netlify.app/
+This app is deployed on Netlify and can be viewed live at: https://explore-adventure-website.netlify.app/
