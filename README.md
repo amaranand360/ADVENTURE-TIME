@@ -25,6 +25,11 @@ If you have any questions or comments about ADVENTURE, please contact us at: ama
 
 <h2>Desktop mode💻 </h2>
 
+![Screenshot (17)](https://user-images.githubusercontent.com/122713145/223176264-6bb3b99c-60e7-492e-92a3-57e10cd201c4.png)
+
+<h2>Smart-phone mode💻 </h2>
+
+![imagenbnj](https://user-images.githubusercontent.com/122713145/223176791-571a4dcd-9ac9-4918-90f8-407d78fb29b8.jpg)
+
 
 Happy exploring! 🌅🌄🏞️
-![Screenshot (17)](https://user-images.githubusercontent.com/122713145/223176264-6bb3b99c-60e7-492e-92a3-57e10cd201c4.png)
