@@ -14,6 +14,7 @@ To use simply visit the website at : https://explore-adventure-website.netlify.a
 <li>Descriptions of popular destinations.<</li>
 <li>Parallel-axis effect.</li>
 <li>background image changing.</li>
+<li>Responsive site</li>
 </ul>
 
 <h2>Contributing 🤝 </h2>
@@ -22,4 +23,8 @@ To use simply visit the website at : https://explore-adventure-website.netlify.a
 <h2>Contact 📞 </h2>
 If you have any questions or comments about ADVENTURE, please contact us at: amar.anand0030@gmail.com.
 
+<h2>Desktop mode💻 </h2>
+
+
 Happy exploring! 🌅🌄🏞️
+![Screenshot (17)](https://user-images.githubusercontent.com/122713145/223176264-6bb3b99c-60e7-492e-92a3-57e10cd201c4.png)
